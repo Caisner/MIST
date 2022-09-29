@@ -41,7 +41,7 @@ root
 
 ## Cut WSIs
 ```
-  $ python crop_patches.py
+  $ python crop_patches.py -m 0 1 -b 5
 ```
 
 Once the above script has finished running, `pyramid` folder will appear.
