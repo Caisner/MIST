@@ -1,5 +1,5 @@
 # MIST
-As supporting code for the study "MIST: Multiple Instance Learning Network Based on Swin Transformer for WSI Classification of Colorectal Adenomas".
+As supporting code for the study "[MIST: Multiple Instance Learning Network Based on Swin Transformer for WSI Classification of Colorectal Adenomas](https://pathsocjournals.onlinelibrary.wiley.com/doi/abs/10.1002/path.6027)".
 
 ## Install Python-related packages
 ```
